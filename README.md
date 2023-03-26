@@ -9,8 +9,8 @@
 - 😄 Pronouns: he/him.
 
 #### Fun facts: ⬇️
-- 🎧 I like to listen pop, rock, indie and latin music.
-- ♊ I'm 17 y.o.
+- 🎧 Pop, rock and indie.
+- ♊ I'm 18 y.o.
 ## More
 <div>
   <a href="https://github.com/as1lo">
@@ -19,7 +19,6 @@
 
 <div>
   <a href="https://br.linkedin.com/in/aislan-mota-719799234/en?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href="https://www.instagram.com/asilo.42/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       <a href="aislanmota0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         
 ![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
