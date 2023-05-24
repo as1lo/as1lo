@@ -5,7 +5,7 @@
 </div>
 
 - 💻 I'm currently studying Software Development and English.
-- ✉️ contact me with LinkedIn, Instagram or E-mail.
+- ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
 
 #### Fun facts: ⬇️
