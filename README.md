@@ -10,7 +10,7 @@
 
 #### Fun facts: ⬇️
 - 🎧 Pop, rock and indie.
-- ♊ I'm 18 y.o.
+- ♊ I'm 19 y.o.
 ## More
 <div>
   <a href="https://github.com/as1lo">
