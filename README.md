@@ -21,7 +21,6 @@
   <a href="https://br.linkedin.com/in/aislan-mota-719799234/en?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       <a href="aislanmota0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         
-![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
-        
+       
 </div>
    
