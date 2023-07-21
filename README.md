@@ -24,3 +24,4 @@
        
 </div>
    
+![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
