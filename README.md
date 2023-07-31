@@ -4,7 +4,7 @@
 - ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
 
-<img src="https://discord.com/channels/846536751103475754/894651511404122162/1135711467887411331">
+<img src="https://www.facebook.com/100004394346845/videos/1641203866348529/">
 
 #### Fun facts: ⬇️
 - 🎧 Pop, rock and indie.
@@ -19,7 +19,7 @@
   <a href="https://br.linkedin.com/in/aislan-mota-719799234/en?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="aislanmota0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    
-  ![My Skills](https://skillicons.dev/icons?i=c)]
+  ![My Skills](https://skillicons.dev/icons?i=c)
 </div>
    
 ![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
