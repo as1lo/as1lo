@@ -11,7 +11,7 @@
   }
 </style>
 
-<img src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" class="gif">
+<img style="right" src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" class="gif">
 
 
 #### Fun facts: ⬇️
