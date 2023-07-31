@@ -1,7 +1,7 @@
 ## Hi there👋🏻!  as1lo here.   (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 <div>
-  <img align="right" height="150cm" src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb201Nzh0bGhuZ2E2NGZqanlwNjdjZXI2bGNyajJtY3Y2cnI0aHA4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUtfSJNEUZ50K6Lyg5/giphy.gif)">
+  <img align="right" height="150cm" src="https://media.giphy.com/media/oOdlDgWuC7ZviN1pIQ/giphy.gif">
 </div>
 
 - 💻 I'm currently studying Software Development and English.
