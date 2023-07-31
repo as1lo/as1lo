@@ -1,12 +1,12 @@
 ## Hi there👋🏻!  as1lo here.   (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 <div>
-  <img weight="5cm" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif">
+  <img weight="5cm" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" width="100" heigh="30">
 </div>
 
 
 <div>
-  <img align="right" width="100" heigh="30" src="https://media.giphy.com/media/oOdlDgWuC7ZviN1pIQ/giphy.gif">
+  <img align="right" src="https://media.giphy.com/media/oOdlDgWuC7ZviN1pIQ/giphy.gif">
 </div>
 
 - 💻 I'm currently studying Software Development and English.
