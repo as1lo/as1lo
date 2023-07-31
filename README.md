@@ -4,7 +4,15 @@
 - ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
 
-<img src="https://discord.com/channels/846536751103475754/846536751103475756/956234277606010880">
+<style>
+  .gif {
+    float: right;
+    margin: 10;
+  }
+</style>
+
+<img src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" class="gif">
+
 
 #### Fun facts: ⬇️
 - 🎧 Pop, rock and indie.
