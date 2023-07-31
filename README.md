@@ -10,9 +10,9 @@
 #### Fun facts: ⬇️
 - 🎧 Pop, rock and indie.
 - ♊ I'm 19 y.o.
-- <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
+ <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 <div>
-  <img height="60" width="60" src="https://media.giphy.com/media/IizHZy80WZbkmHiaVP/giphy.gif">
+  <img height="60" width="60" src="https://media.giphy.com/media/IizHZy80WZbkmHiaVP/giphy.gif"><img height="60" width="60" src="https://media.giphy.com/media/dup6jDyj6Yk6z5M8nN/giphy.gif">
   
 ## More
 </div>
