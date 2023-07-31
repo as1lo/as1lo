@@ -4,14 +4,9 @@
 - ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
 
-<style>
-  .gif {
-    float: right;
-    margin: 10;
-  }
-</style>
-
-<img style="right" src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" class="gif">
+<div style="text-align: center;">
+  <img src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" alt="Descrição da imagem" style="width: 300px; height: 200px; margin: 10px auto;">
+</div>
 
 
 #### Fun facts: ⬇️
