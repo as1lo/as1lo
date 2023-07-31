@@ -6,7 +6,7 @@
 
 
 <div>
-  <img align="right" height="150cm" src="https://media.giphy.com/media/oOdlDgWuC7ZviN1pIQ/giphy.gif">
+  <img align="right" width="100" heigh="30" src="https://media.giphy.com/media/oOdlDgWuC7ZviN1pIQ/giphy.gif">
 </div>
 
 - 💻 I'm currently studying Software Development and English.
