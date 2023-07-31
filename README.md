@@ -1,6 +1,6 @@
 ## Hello there👋🏻!  as1lo here.   (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <div>
-  <img height="30" width="100" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" >
+  <img height="30" width="100" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" ><img height="30" width="100" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" ><img height="30" width="100" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" ><img height="30" width="100" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif" >
 </div>
 
 - 💻 I'm currently studying Software Development and English.
