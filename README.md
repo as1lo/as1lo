@@ -1,7 +1,7 @@
 ## Hi there👋🏻!  as1lo here.   (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 <div>
-  <img align="right" heigh="5cm" src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif">
+  <img weight="5cm" src="https://media.giphy.com/media/SDPuwz7S8lFvhDxMDa/giphy.gif">
 </div>
 
 
