@@ -1,6 +1,7 @@
 ## Hello there👋🏻!  as1lo here.   (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 <div>
+  
 - 💻 I'm currently studying Software Development and English.
 - ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
