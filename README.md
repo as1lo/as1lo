@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEB887&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2B48C&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE,+as1lo+here!;+My+name+is+Aislan+Mota;I'm+19+years+old;I'm+from+Brazil;I'm+currently+studying+Software+Development;Be+Welcome!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧)](https://git.io/typing-svg)
 
@@ -14,11 +14,17 @@
  <a href = "mailto:aislanmota0@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://br.linkedin.com/in/aislan-mota-719799234/en?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
+
+<div >
+  <img align="right" heigh="80" width="80" src="https://media.giphy.com/media/ugBFdBl61vMk3aTyhB/giphy.gif"
+</div>
+
 ### SKILLS
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 ### STUDYING IN THIS MOMENT
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEB887&height=120&section=footer"/>
