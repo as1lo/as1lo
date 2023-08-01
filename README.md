@@ -2,7 +2,7 @@
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 
 <div>
- <img height="150" width="150" src="https://discord.com/channels/846536751103475754/846536751103475756/1135733009232973884" align="right" >
+ <img height="150" width="150" src="https://discord.com/channels/846536751103475754/846536751103475756/1135733273889357997" align="right" >
 </div>
   
 - 💻 I'm currently studying Software Development and English.
