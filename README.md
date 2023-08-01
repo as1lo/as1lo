@@ -24,6 +24,6 @@
 ### STUDYING IN THIS MOMENT
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
