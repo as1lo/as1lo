@@ -29,7 +29,7 @@
 ## STUDYING IN THIS MOMENT
 <img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
 
-![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
    <img  height="80" width="80" src="https://media.giphy.com/media/HaPdTSKQwQyMXyodO3/giphy.gif">
