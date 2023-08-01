@@ -1,13 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2B48C&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE,+as1lo+here!;+My+name+is+Aislan+Mota;I'm+19+years+old;I'm+from+Brazil;I'm+currently+studying+Software+Development;Be+Welcome!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE,+as1lo+here!;+My+name+is+Aislan+Mota;I'm+19+years+old;I'm+from+Brazil;I'm+currently+studying+Software+Development;Be+Welcome!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as1lo&bg_color=0d1117&color=eaab71&line=7c4404&point=ffac38&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as1lo&bg_color=0d1117&color=4b0082&line=4b0082&point=00ff7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=as1lo&show_icons=true&count_private=true&hide_border=true&title_color=DEB887&icon_color=8B4513&text_color=DEB887&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as1lo&layout=compact&hide_border=true&title_color=DEB887&text_color=DEB887&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=as1lo&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=00FF7F&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as1lo&layout=compact&hide_border=true&title_color=4B0082&text_color=00FF7F&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -16,7 +15,7 @@
  </div>
 
 <div >
-  <img align="right" heigh="80" width="80" src="https://media.giphy.com/media/ugBFdBl61vMk3aTyhB/giphy.gif"
+  <img align="right" heigh="80" width="80" src="https://media.giphy.com/media/YLjpioGwkjt5ArI1ZA/giphy.gif">
 </div>
 
 ### SKILLS
@@ -25,6 +24,6 @@
 ### STUDYING IN THIS MOMENT
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEB887&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
