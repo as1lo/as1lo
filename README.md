@@ -23,7 +23,7 @@
 <img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
 
 <div >
-  <img align="right" height="100" width="100" src="https://media.giphy.com/media/7ziNKdhqx8VAroK766/giphy.gif">
+  <img align="right" height="100" width="100" src="https://media.giphy.com/media/ICiWg8v0BEiAM/giphy.gif">
 </div>
 
 ## STUDYING IN THIS MOMENT
