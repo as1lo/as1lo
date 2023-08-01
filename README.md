@@ -2,14 +2,12 @@
 <img height="50cm" src="https://user-images.githubusercontent.com/99282105/159739835-eafdbd6d-d8dd-4bc9-86c7-a97f13e53ad2.png">
 
 <div>
- <img height="150" width="150" src="https://discord.com/channels/846536751103475754/894651511404122162/1135711467887411331" alt="Descrição da imagem" align="right" >
+ <img height="150" width="150" src="https://imgur.com/R77dnvM" alt="Descrição da imagem" align="right" >
 </div>
   
 - 💻 I'm currently studying Software Development and English.
 - ✉️ contact me with Linkedin or E-mail.
 - 😄 Pronouns: he/him.
-
-
 
 #### Fun facts: ⬇️
 - 🎧 Pop, rock and indie.
