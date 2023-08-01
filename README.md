@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him.
 
 <div>
-  <img src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" alt="Descrição da imagem" align="right">
+  <img src="https://cdn.discordapp.com/attachments/846536751103475756/956234277404676197/ezgif.com-gif-maker.gif" alt="Descrição da imagem" align="right" height="60" width="60">
 </div>
 
 
