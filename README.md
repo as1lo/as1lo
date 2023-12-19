@@ -27,7 +27,7 @@
 </div>
 
 ## STUDYING IN THIS MOMENT
-<img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+<img  height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 
 ![Snake animation](https://github.com/as1lo/as1lo/blob/output/github-contribution-grid-snake.svg)
 
